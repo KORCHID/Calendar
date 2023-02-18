@@ -1,5 +1,5 @@
 {
-    "name": "dwgebler/security-headers-bundle",
+    "name": "KORCHID/Calendar",
     "description": "Set security headers for Symfony apps through middleware",
     "type": "symfony-bundle",
     "require": {
