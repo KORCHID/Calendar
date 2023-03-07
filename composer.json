@@ -1,5 +1,5 @@
 {
-    "name": "KORCHID/Calendar",
+    "name": "korchid/calendar",
     "description": "Set security headers for Symfony apps through middleware",
     "type": "symfony-bundle",
     "require": {
